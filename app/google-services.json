@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514502345467",
+    "project_id": "kotlinfirebasestudy-6700e",
+    "storage_bucket": "kotlinfirebasestudy-6700e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514502345467:android:35aafc956eb0f3053ba65e",
+        "android_client_info": {
+          "package_name": "com.kenant42.kotlinfirebasestudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWA1IaRPmCld3JwsXpPfftejJBM5p7-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
